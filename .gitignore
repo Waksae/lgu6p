@@ -175,5 +175,5 @@ cython_debug/
 
 # data upload ignore
 dataset/
-
+lab02/
 venv/
